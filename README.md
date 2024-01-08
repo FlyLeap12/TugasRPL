@@ -1,7 +1,5 @@
 # TugasRPL
 
-## contoh
+## Tugas RPL 7
 
-### CONTOH
-TES TEST TEST
 
